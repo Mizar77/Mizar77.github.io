@@ -30,7 +30,6 @@ My research interests lie in the area of natural language processing, especially
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2025</div><img src='images/SeqPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -84,7 +83,7 @@ My research interests lie in the area of natural language processing, especially
 
 <span class='anchor' id="-internships"></span>
 # 💻 Internships
-- *2024.10 - 2025.3*, ByteDance, Hong Kong
+- *2024.10 - 2025.3*, ByteDance, Hong Kong(test)
 - *2023.06 - 2023.10*, IDEA, China.
 - *2022.05 - 2023.02*,  ByteDance, China.
 - *2020.09 - 2021.01*, ByteDance, China.
