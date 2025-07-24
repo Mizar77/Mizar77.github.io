@@ -83,7 +83,7 @@ My research interests lie in the area of natural language processing, especially
 
 <span class='anchor' id="-internships"></span>
 # 💻 Internships
-- *2024.10 - 2025.3*, ByteDance, Hong Kong(test)
+- *2024.10 - 2025.3*, ByteDance, Hong Kong.
 - *2023.06 - 2023.10*, IDEA, China.
 - *2022.05 - 2023.02*,  ByteDance, China.
 - *2020.09 - 2021.01*, ByteDance, China.
