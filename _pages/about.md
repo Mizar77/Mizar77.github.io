@@ -30,9 +30,12 @@ My research interests lie in the area of natural language processing, especially
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2025</div><img src='images/SeqPO.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2025</div><img src='images/SeqPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 [SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation](https://arxiv.org/pdf/2505.20622)
+
+**Ting Xu**, Zhichao Huang, Jiankai Sun, Shanbo Cheng, Wai Lam
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2024</div><img src='images/TAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
