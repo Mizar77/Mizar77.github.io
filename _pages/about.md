@@ -17,17 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student at CUHK Text-Mining Group, supervised by Prof. [Lam Wai](https://www1.se.cuhk.edu.hk/~textmine/). Before that, I received my B.S. degree (2017-2021) and M.S. degree (2021-2024) in the Department of Computer Science and Technology from NanJing University, supervised by Prof. [Xinyu Dai](https://ai.nju.edu.cn/daixinyu/index.htm).
+I am currently a PhD student at CUHK Text-Mining Group, supervised by Prof. [Lam Wai](https://www1.se.cuhk.edu.hk/~textmine/). Before that, I received my B.S. degree (2017-2021) and M.S. degree (2021-2024) in the Department of Computer Science and Technology from NanJing University, co-supervised by Prof. [Xinyu Dai](https://ai.nju.edu.cn/daixinyu/index.htm) and Prof. [Jiajun Chen](https://cs.nju.edu.cn/chenjiajun/).
 
 My research interests lie in the area of natural language processing, especially in efficient alignment of large language models. 
 
 <span class='anchor' id="-news"></span>
 # 🔥 News
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by ACL 2025.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by ACL 2023.
 
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2025</div><img src='images/SeqPO.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[SeqPO-SiMT: Sequential Policy Optimization for Simultaneous Machine Translation](https://arxiv.org/pdf/2505.20622)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2024</div><img src='images/TAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,6 +78,7 @@ My research interests lie in the area of natural language processing, especially
 
 <span class='anchor' id="-internships"></span>
 # 💻 Internships
+- *2024.10 - 2025.3*, ByteDance, Hong Kong
 - *2023.06 - 2023.10*, IDEA, China.
-- *2022.05 - 2023.02*, AI-Lab, ByteDance, China.
+- *2022.05 - 2023.02*,  ByteDance, China.
 - *2020.09 - 2021.01*, ByteDance, China.
