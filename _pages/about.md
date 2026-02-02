@@ -23,12 +23,23 @@ My research interests lie in the area of natural language processing, especially
 
 <span class='anchor' id="-news"></span>
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ACL 2025.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
 - *2023.06*: &nbsp;🎉🎉 One paper is accepted by ACL 2023.
 
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICL 2026</div><img src='images/moe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Understanding the Mixture-of-Experts with Nadaraya-Watson Kernel
+
+Chuanyang Zheng, Jiankai Sun, Yihang Gao, Enze Xie, Yuehao Wang, Peihao Wang, **Ting Xu**, Matthew Chang, Liliang Ren, Jingyao Li, Jing Xiong, Kashif Rasul, Mac Schwager, Anderson Schneider, Zhangyang Wang, Yuriy Nevmyvaka 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2025</div><img src='images/SeqPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
