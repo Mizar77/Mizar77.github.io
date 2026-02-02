@@ -31,7 +31,7 @@ My research interests lie in the area of natural language processing, especially
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICL 2026</div><img src='images/moe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/moe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Understanding the Mixture-of-Experts with Nadaraya-Watson Kernel
