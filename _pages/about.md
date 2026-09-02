@@ -23,6 +23,7 @@ My research interests lie in the area of natural language processing, especially
 
 <span class='anchor' id="-news"></span>
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by ICLR 2026.
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by ACL 2025.
 - *2024.06*: &nbsp;🎉🎉 One paper is accepted by ACL 2024.
@@ -30,6 +31,15 @@ My research interests lie in the area of natural language processing, especially
 
 <span class='anchor' id="-publications"></span>
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/cot_entropy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unveiling the Entropy Dynamics of Chain-of-Thought Reasoning](https://icml.cc/virtual/2026/poster/62606)
+
+**Ting Xu**, Xu He, Yupu Lu, Jiankai Sun, Dong Li, Wai Lam, Jianye Hao
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/moe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,6 +104,7 @@ Chuanyang Zheng, Jiankai Sun, Yihang Gao, Enze Xie, Yuehao Wang, Peihao Wang, **
 
 <span class='anchor' id="-internships"></span>
 # 💻 Internships
+- *2026.03 - 2026.07*, Tencent Qingyun Program.
 - *2024.10 - 2025.3*, ByteDance, Hong Kong.
 - *2023.06 - 2023.10*, IDEA, China.
 - *2022.05 - 2023.02*,  ByteDance, China.
